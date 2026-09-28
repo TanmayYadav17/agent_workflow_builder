@@ -1,1 +1,1 @@
-# Frontend for Visual AI pipeline builder
+# Frontend for mcp pipeline builder
